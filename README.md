@@ -4,7 +4,11 @@
 
 **• No me hago resposable del mal uso que se le pueda dar a esta herramienta es bajo su propia responsabilidad**
 
-# Instalacion e Uso:
+# Repository review:
+- [
+
+
+# Uso e Instalacion:
 
 ## Requiremientos:
 
@@ -29,8 +33,7 @@ cd Roblox-Phish
 python3 main.py
 ```
 
-
-## English Repo
+--------
 
 # Roblox-Phish
 
@@ -68,3 +71,8 @@ python3 main.py
 | Spanish Version | English Version |	
 | -------------- | ---------------------- |   
 |![Index](https://media.discordapp.net/attachments/797338700596904018/1049115047294672936/image.png?width=881&height=431)|![f](https://media.discordapp.net/attachments/995599976463859713/1049440632399204442/image.png?width=874&height=431)
+
+
+# Contacto / Contact:
+
+**Discord:** **Euronymou5#3155**
