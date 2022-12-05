@@ -6,13 +6,13 @@
 
 # Instalacion e Uso:
 
-**Requiremientos:**
+## Requiremientos:
 
   **Python3**
   
   **PHP**
 
-**Sistemas operativos compatibles:**
+## Sistemas operativos compatibles:
    **Linux (Debian) : ✔️**
    
    **Andorid (Termux): ❌**
