@@ -4,6 +4,9 @@
 
 **• No me hago resposable del mal uso que se le pueda dar a esta herramienta es bajo su propia responsabilidad**
 
+**Creditos de la pagina** **[KasRoudra](https://github.com/KasRoudra)**
+**Page credits** [KasRoudra](https://github.com/KasRoudra)
+
 # Repository review:
 - [Uso e Instalacion (Español / Spanish](https://github.com/Euronymou5/Roblox-Phish/blob/main/README.md#uso-e-instalacion)
 - [Requiremientos (Español / Spanish)](https://github.com/Euronymou5/Roblox-Phish#requiremientos)
