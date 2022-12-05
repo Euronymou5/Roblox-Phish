@@ -62,3 +62,9 @@ cd Roblox-Phish
 ```
 python3 main.py
 ```
+
+# Imagenes / Images:
+
+| Spanish Version | English Version |	
+| -------------- | ---------------------- |   
+|![Index](https://media.discordapp.net/attachments/797338700596904018/1049115047294672936/image.png?width=881&height=431)|![f](https://media.discordapp.net/attachments/995599976463859713/1049440632399204442/image.png?width=874&height=431)
