@@ -7,12 +7,16 @@
 # Instalacion e Uso:
 
 **Requiremientos:**
+
   **Python3**
+  
   **PHP**
 
 **Sistemas operativos compatibles:**
    **Linux (Debian) : ✔️**
+   
    **Andorid (Termux): ❌**
+   
    **Windows: ❌** **Con windows se puede usar [CloudShell](https://cloud.google.com/shell?hl=es)**
 
 ```bash
@@ -36,13 +40,17 @@ python3 main.py
 
 # Installation and Use:
 
-**Requirements**
+**Requirements:**
+
   **Python3**
+  
   **PHP**
   
 **Supported operating systems:**
    **Linux (Debian) : ✔️**
+   
    **Andorid (Termux): ❌**
+   
    **Windows: ❌** **With windows it can be used [CloudShell](https://cloud.google.com/shell?hl=es)**
    
 ```bash
