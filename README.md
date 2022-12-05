@@ -40,13 +40,13 @@ python3 main.py
 
 # Installation and Use:
 
-**Requirements:**
+## Requirements:
 
   **Python3**
   
   **PHP**
   
-**Supported operating systems:**
+## Supported operating systems:
    **Linux (Debian) : ✔️**
    
    **Andorid (Termux): ❌**
