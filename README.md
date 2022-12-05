@@ -7,7 +7,7 @@
 # Repository review:
 - [Uso e Instalacion (Español / Spanish](https://github.com/Euronymou5/Roblox-Phish/blob/main/README.md#uso-e-instalacion)
 - [Requiremientos (Español / Spanish)](https://github.com/Euronymou5/Roblox-Phish#requiremientos)
-- [Sistemas operativos compatibles (Español / Spanish](https://github.com/Euronymou5/Roblox-Phish#sistemas-operativos-compatibles)
+- [Sistemas operativos compatibles (Español / Spanish)](https://github.com/Euronymou5/Roblox-Phish#sistemas-operativos-compatibles)
 - [English Repo](https://github.com/Euronymou5/Roblox-Phish#roblox-phish-1)
 - [Installation and use](https://github.com/Euronymou5/Roblox-Phish#installation-and-use)
 - [Requirements](https://github.com/Euronymou5/Roblox-Phish#requirements)
